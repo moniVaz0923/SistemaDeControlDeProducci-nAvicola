@@ -32,7 +32,7 @@ config.py: Archivo de configuración para variables de entorno y credenciales.
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+git clone (https://github.com/moniVaz0923/SistemaDeControlDeProducci-nAvicola.git)
 Instalar dependencias:
 
 Bash
